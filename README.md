@@ -1,13 +1,5 @@
 # 💫 About Me:
 I am a full-stack software developer with a strong focus on building scalable, maintainable, and well-architected applications. My work often revolves around modern web technologies, with particular experience in Laravel, Next.js, TypeScript, Vue, and API-driven development. I enjoy designing clean system architectures, implementing secure authentication flows, integrating payment gateways, and solving complex backend challenges with practical, production-ready solutions.<br><br>I pay close attention to code quality, strict typing, and long-term maintainability. Rather than looking for quick fixes, I prefer well-structured designs that can scale and evolve over time. I also have an interest in distributed systems, service-oriented architectures, and technologies such as gRPC.<br><br>Beyond software engineering, I have an eye for design and presentation. Whether it's creating polished user interfaces or conceptualizing branded apparel and visual assets, I value simplicity, elegance, and attention to detail.
-
-### Programming Languages:
-#### PHP
-#### TypeScript
-#### JavaScript
-#### SQL
-#### HTML
-#### CSS
 ---
 ## Personality & Working Style
 
